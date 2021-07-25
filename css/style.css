@@ -1,0 +1,21 @@
+.header-top{
+    background-color: #0d2d3e;
+}
+
+.menu li a:hover{
+    
+    color: gray !important;
+
+}
+
+/* .slider-caption{
+    text-align: left;
+    margin-top: 20px;
+} */
+
+.about-bg-service{
+    background-image: url(/images/gellary/section_bg02.jpg);
+}
+.review{
+    margin:auto;
+}
